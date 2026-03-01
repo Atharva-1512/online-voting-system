@@ -11,4 +11,4 @@ if(!isset($_SESSION['admin_id'])){
 
 <a href="add_candidate.php">Add Candidate</a><br><br>
 <a href="logout.php">Logout</a>
-<a href="add_candidate.php">Add Candidate</a><br><br> 
+<a href="add_candidate.php">Add Candidate</a>
