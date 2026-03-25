@@ -10,6 +10,17 @@ One user = one vote
 Secure authentication
 Transparent vote counting
 Easy election management for admins
+
+
+
+# Steps
+1. Fork the repo
+2. Create your feature branch
+3. Commit your changes
+4. Push and open a PR
+
+
+
 🚀 Features
 👤 User Side
 User registration & login authentication
@@ -25,19 +36,30 @@ View real-time results
 Authentication-based voting access
 Vote locking mechanism (no re-voting)
 Data validation & controlled access
+
+
+
 🧰 Tech Stack
 Layer	Technology
 Frontend	HTML, CSS, JavaScript (add React if used)
 Backend	Node.js / Express (or your backend)
 Database	MongoDB / MySQL (update accordingly)
 Tools	Git, GitHub
+
+
+
+
 📂 Project Structure
 online-voting-system/
 │── client/ or frontend/      # UI components
 │── server/ or backend/       # API & business logic
 │── database/                 # DB config / models
-│── public/                   # Static assets
+│── public/                   
 │── README.md
+
+
+
+
 ⚙️ Installation & Setup
 1. Clone Repository
 git clone https://github.com/Atharva-1512/online-voting-system.git
@@ -48,25 +70,33 @@ npm install
 npm start
 4. Open in Browser
 http://localhost:3000
+
+
+
+
 🧠 System Workflow
 User registers/logs in
 Admin creates election & candidates
 User selects candidate and casts vote
 System verifies and records vote
 Results are generated and displayed
+
+
+
+
 📊 Key Highlights
 ✔️ Ensures fair voting system
 ✔️ Prevents duplicate votes
 ✔️ Simple and clean UI
 ✔️ Modular backend design
-📸 Screenshots
-
-(Add these — this is where most people fail and lose recruiter attention)
 
 Login Page
 Voting Dashboard
 Admin Panel
 Results Page
+
+
+
 🔮 Future Improvements
 🔗 Blockchain-based voting (tamper-proof system)
 📱 OTP / Aadhaar verification
@@ -81,6 +111,8 @@ Contributions are welcome!
 2. Create your feature branch
 3. Commit your changes
 4. Push and open a PR
+
+
 📄 License
 
 This project is licensed under the MIT License.
