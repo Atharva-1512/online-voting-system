@@ -32,7 +32,22 @@ Create & manage elections
 Add / remove candidates
 Monitor voting activity
 View real-time results
-🔐 Security
+
+
+
+
+👤 User Side
+User registration & login authentication
+View available elections and candidates
+Cast vote securely
+Prevent duplicate voting
+🛠️ Admin Side
+Create & manage elections
+Add / remove candidates
+Monitor voting activity
+View real-time results
+🔐
+🔐Security
 Authentication-based voting access
 Vote locking mechanism (no re-voting)
 Data validation & controlled access
