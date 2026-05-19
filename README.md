@@ -6,6 +6,9 @@ A secure and scalable Online Voting System that enables users to participate in 
 
 This system eliminates the need for physical polling by allowing users to vote remotely while ensuring:
 
+
+
+
 One user = one vote
 Secure authentication
 Transparent vote counting
